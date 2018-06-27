@@ -1,7 +1,7 @@
 # Rails
 I learned Ruby on Rails, Heroku and Wistia APIs from https://code4startup.com/projects/hero-learn-ruby-on-rails-and-wistia-apis-by-cloning-code4startup-version-newbies
-Beware that the bootstrap material Leo uses is outdated, this is from 2015, but he is updating his site for 2018
-Easiest way to learn Ruby and Rails, Saved me hours or learning
+Beware that the bootstrap material Leo uses is outdated, this is from 2015, but he is updating his site for 2018.
+Easiest way to learn Ruby and Rails, Saved me hours of learning!
 
 What you will learn
 In this project, Leo will walk you through steps of how to create a very simple online education web application, a "newbies version" of Code4Startup. What you will learn:
